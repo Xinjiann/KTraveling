@@ -28,3 +28,9 @@ g6的特点如下：
 ## CPU及内存选择
 
 <div align=center><img src="https://github.com/Xinjiann/KTraveling/blob/main/img/ali_4-16_prize.png" width = "435"/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/Xinjiann/KTraveling/blob/main/img/ali_8-32_prize.png" width = "435"/></div>
+
+## 服务器价格+RDS价格
+
+2核8g：1100+336 = 1436元/月
+4核16g：1523+801 = 2324元/月
+
